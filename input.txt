@@ -1,1 +1,1 @@
-7 || Hello Cloud Build! This is a test input.
+8 || Hello Cloud Build! This is a test input.
