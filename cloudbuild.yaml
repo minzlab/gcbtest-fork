@@ -57,7 +57,7 @@ steps:
               "_PR_EMAIL": "${PR_EMAIL}",
             },
             "gitParameters": {
-            "commitSha": "${COMMIT_SHA}"
+              "commitSha": "${COMMIT_SHA}"
             }
           }'
 
