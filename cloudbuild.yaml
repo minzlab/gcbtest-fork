@@ -1,6 +1,6 @@
 substitutions:
   _OUTPUT_BUCKET: 'gcb_test'
-  _TRIGGER_TOPIC: 'hit_the_gas'
+  _TRIGGER_TOPIC: 'hit_the_gas_202607'
   _PROJECT_ID: 'mhyun-test-project2'
   _OUTPUT_IMAGE_SUFFIX: ''
   _OUTPUT_IMAGE_FAMILY: ''
