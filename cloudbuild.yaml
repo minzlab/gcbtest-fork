@@ -70,7 +70,7 @@ steps:
         gcloud pubsub topics publish "projects/${_PROJECT_ID}/topics/${_TRIGGER_TOPIC}" \
           --message="$(cat /workspace/pubsub_msg.json)"
         # Inject an error
-        exit 1
+        # exit 1
 # Automatically upload any matching output file to the GCS bucket
 artifacts:
   objects:
